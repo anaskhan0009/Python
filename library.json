@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "uid": "001",
+      "user_type": "Student",
+      "name": "Muhammad",
+      "department": "BS IT",
+      "email": "qk51266@gmail.com",
+      "phone": "1234567890",
+      "password": "$12345678"
+    },
+    {
+      "uid": "P001",
+      "user_type": "Professor",
+      "name": "Dr. Anas",
+      "department": "Math",
+      "email": "qk51266@gmail.com",
+      "phone": "0987654321",
+      "password": "s12345678"
+    }
+  ],
+  "books": [
+    {
+      "id": "B001",
+      "title": "Introduction to Java",
+      "author": "John Doe",
+      "category": "Programming",
+      "available_copies": 5
+    },
+    {
+      "id": "B002",
+      "title": "Data Structures and Algorithms",
+      "author": "Alice Smith",
+      "category": "Computer Science",
+      "available_copies": 3
+    },
+    {
+      "id": "B003",
+      "title": "HTML and CSS Design",
+      "author": "Jane Austen",
+      "category": "Web Development",
+      "available_copies": 4
+    }
+  ],
+  "library": {
+    "rooms": {
+      "library_room": "Room 101",
+      "study_room": "Room 202"
+    },
+    "in_charge": {
+      "name": "Mr. Peter Parker",
+      "address": "123 Library Street, Knowledge City",
+      "phone": "555-9876543"
+    }
+  }
+}

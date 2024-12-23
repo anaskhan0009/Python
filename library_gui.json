@@ -1,0 +1,77 @@
+{
+    "users": [
+        {
+            "uid": "001",
+            "user_type": "Student",
+            "name": "Muhammad",
+            "department": "BS IT",
+            "email": "qk51266@gmail.com",
+            "phone": "1234567890",
+            "password": "$2b$12$UL5u6Z2JHWF/rhWucOR1xOaqF4eBZjXTkezjKwD63r95Ov8smcebO"
+        },
+        {
+            "name": "mh",
+            "email": "qk51266@gmil.com",
+            "password": "12345678",
+            "type": "Student"
+        },
+        {
+            "name": "mh",
+            "email": "qk51266",
+            "password": "1234567890",
+            "type": "Student"
+        },
+        {
+            "name": "nn",
+            "email": "nn",
+            "password": "nn",
+            "type": "Student"
+        },
+        {
+            "uid": "1",
+            "user_type": "Student",
+            "name": "m",
+            "department": "BsIt",
+            "email": "qk",
+            "phone": "000000000",
+            "password": "$2b$12$3EkEtq99oRllt.BBj8OEEOFX45FvDP3CPV9ru9MiRGSbSL6Rxw1pS"
+        }
+    ],
+    "books": [
+        {
+            "id": "1",
+            "title": "Java",
+            "author": "jatoi",
+            "category": "Programming",
+            "available_copies": 3
+        },
+        {
+            "uid": 2,
+            "title": "java",
+            "author": "jatoi",
+            "type": "Programming",
+            "reviews": []
+        },
+        {
+            "uid": 3,
+            "title": "java",
+            "author": "jatoi",
+            "type": "Fiction",
+            "reviews": []
+        },
+        {
+            "uid": 4,
+            "title": "java",
+            "author": "java",
+            "type": "Fiction",
+            "reviews": []
+        },
+        {
+            "uid": 5,
+            "title": "jj",
+            "author": "aa",
+            "type": "Fiction",
+            "reviews": []
+        }
+    ]
+}
